@@ -30,7 +30,7 @@
 
 这是*对的*，根据 Python 官方文档中的 Tuples 章节显示，列表只支持基础的序列操作。以下是说明文字的撷取。
 
-> Tuples implement all of the [common](dfile:///Users/Cam/Library/Application Support/Dash/DocSets/Python_3/Python 3.docset/Contents/Resources/Documents/doc/library/stdtypes.html#typesseq-common) sequence operations.
+> Tuples implement all of the *common* sequence operations.
 
 而基础列表操作就只包括以下几种：
 
@@ -52,7 +52,7 @@
 
 这是*对的*，根据 Python 官方文档中的 The del statement 章节显示，del 函数只是对列表有作用。以下是撷取文字的说明。
 
-> There is a way to remove an item from a list given its index instead of its value: the [`del`](dfile:///Users/Cam/Library/Application Support/Dash/DocSets/Python_3/Python 3.docset/Contents/Resources/Documents/doc/reference/simple_stmts.html#del) statement. This differs from the `pop()` method which returns a value. The `del`statement can also be used to remove slices from a list or clear the entire list (which we did earlier by assignment of an empty list to the slice). 
+> There is a way to remove an item from a list given its index instead of its value: the `del` statement. This differs from the `pop()` method which returns a value. The `del`statement can also be used to remove slices from a list or clear the entire list (which we did earlier by assignment of an empty list to the slice). 
 
 4. 好了，最后我们看最后一句：
 
