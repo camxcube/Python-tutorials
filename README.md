@@ -1,7 +1,7 @@
 大家好，我叫雨鹿白生，我們交個朋友吧。
 
 
-![Cam's github stats](https://github-readme-stats.vercel.app/api?username=camxcube
+![Cam's github stats](https://github-readme-stats.vercel.app/api?username=camxcube)
 
 # 2020
 ##   July
