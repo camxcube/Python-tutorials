@@ -4,6 +4,14 @@
 ![Cam's github stats](https://github-readme-stats.vercel.app/api?username=camxcube&show_icons=true&theme=dark)
 
 # 2020
+## August
+
+[2020-08-03](answer_files/200803.md)
+函数中的 return 语句一定能够得到执行。这种说法正确吗？
+<br>
+<br>
+
+
 ##   July
 
 [2020-07-31](answer_files/200731.md)
