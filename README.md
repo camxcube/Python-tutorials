@@ -78,3 +78,7 @@ len ( [ i for i in range ( 10 ) ] ) 的输出结果是什么？
 表达式 int ('101',2) 的值是什么？
 <br>
 
+[2020-07-08](answer_files/200708_formulaForBinary.md)
+如何理解為甚麼 2 進制是用這樣的次方方程計算的?
+<br>
+
