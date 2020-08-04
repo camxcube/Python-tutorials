@@ -1,4 +1,4 @@
-大家好，我叫雨鹿白生，我們交個朋友吧。
+大家好，我叫雨鹿白生，這裏是我的 Python 學習筆記，如果你有興趣跟我一起學習，我們就交個朋友吧。
 
 
 ![Cam's github stats](https://github-readme-stats.vercel.app/api?username=camxcube&show_icons=true&theme=dark)
