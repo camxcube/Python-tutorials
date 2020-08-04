@@ -6,6 +6,10 @@
 # 2020
 ## August
 
+[2020-08-04](answer_files/200804.md)
+已知 x = list( range(20) )，那么语句 print ( x [100:200] ) 无法正常执行。 这种说法正确吗？
+<br>
+
 [2020-08-03](answer_files/200803.md)
 函数中的 return 语句一定能够得到执行。这种说法正确吗？
 <br>
@@ -59,7 +63,7 @@ len ( [ i for i in range ( 10 ) ] ) 的输出结果是什么？
 <br>
 
 [2020-07-15](answer_files/200715.md)
-以下哪个算式在Python中用来计算整数商？
+以下哪个算式在 Python 中用来计算整数商？
 <br>
 
 [2020-07-14](answer_files/200714.md)
@@ -123,7 +127,7 @@ len ( [ i for i in range ( 10 ) ] ) 的输出结果是什么？
 <br>
 
 [2020-06-22](answer_files/200622.md)
-以下哪个算是在Python中用来计算集合的异或集？
+以下哪个算是在 Python 中用来计算集合的异或集？
 <br>
 
 [2020-06-18](answer_files/200618.md)
