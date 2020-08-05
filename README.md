@@ -6,6 +6,10 @@
 # 2020
 ## August
 
+[2020-08-05](answer_files/200805.md)
+下列哪个数据类型在 Python 中是不支持的？
+<br>
+
 [2020-08-04](answer_files/200804.md)
 已知 x = list( range(20) )，那么语句 print ( x [100:200] ) 无法正常执行。 这种说法正确吗？
 <br>
